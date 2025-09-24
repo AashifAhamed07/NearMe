@@ -118,7 +118,7 @@ textile.html
 ```
 ## OUTPUT
 ![alt text](<Screenshot (11)-1.png>)
-![alt text](<Screenshot (12)-2.png>)
+![alt text](<Screenshot (12)-1.png>)
 ![alt text](<Screenshot (13).png>)
 ![alt text](<Screenshot (14).png>)
 ![alt text](<Screenshot (15).png>)
