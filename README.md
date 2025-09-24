@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 map.html
 <html>
     <head>
@@ -114,10 +115,10 @@ textile.html
         </pre>
     </body>
 </html>
-
+```
 ## OUTPUT
 ![alt text](<Screenshot (11)-1.png>)
-![alt text](<Screenshot (11)-2.png>)
+![alt text](<Screenshot (12)-2.png>)
 ![alt text](<Screenshot (13).png>)
 ![alt text](<Screenshot (14).png>)
 ![alt text](<Screenshot (15).png>)
